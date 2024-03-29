@@ -1,5 +1,5 @@
 # Hi there 👋, sTroky
-## Front-End Developer
+## Front-End Developer 
 I'm sTroky a Front-End developer from Lithuania. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress.
 
 ## Skills & Experience
